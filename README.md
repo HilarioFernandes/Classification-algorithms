@@ -1,4 +1,4 @@
-# Classifiers
+# Classification algorithms
 
 This repository contains implementations (in R) of some of the basic classification algorithms: classification trees, random florests, bagging, boosting and support vector machines.
 
